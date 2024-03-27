@@ -1,4 +1,5 @@
 Hi there, I'm Farhan Bashir 👋
+
 🌟 About Me:
 
 I'm a budding Full Stack Developer based in Multan, with 6 months of hands-on experience in crafting responsive and intuitive web applications. With a burgeoning passion for coding and technology, I specialize in both front-end and back-end languages, particularly JavaScript, React, Node.js, and Ruby on Rails. My journey in the tech world is just beginning, and I'm eager to explore, learn, and contribute to building innovative solutions.
