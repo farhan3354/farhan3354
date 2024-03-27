@@ -19,6 +19,7 @@ Projects: Check out my repositories below for a mix of personal and collaborativ
 LinkedIn:https://www.linkedin.com/in/farhan-bashir-0299a929b/
 
 Mail:farhanbashir3354@gmail.com
+
 👇 Explore My Projects Below:
 
 [Here, you can list or link to some of your notable projects, each with a brief description.]
