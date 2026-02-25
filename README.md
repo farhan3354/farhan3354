@@ -2,7 +2,7 @@ Hi there, I'm Farhan Bashir 👋
 
 🌟 About Me:
 
-I'm a  Full Stack Developer based in Lahore, with 6 months of hands-on experience in crafting responsive and intuitive web applications. With hug passion for coding and technology, I specialize in both front-end and back-end languages, particularly  Bootstrap, jQuery, Laravel, Angular, Express.js, React.js, Node.js, and HTML5, CSS3, JavaScript , PHP. My journey in the tech world is just beginning, and I'm eager to explore, learn, and contribute to building innovative solutions.
+I'm a  Full Stack Developer  with hands-on experience in crafting responsive and intuitive web applications. With hug passion for coding and technology, I specialize in both front-end and back-end languages, particularly  Bootstrap, jQuery, Laravel, Angular, Express.js, React.js, Node.js, and HTML5, CSS3, JavaScript , PHP. My journey in the tech world is just beginning, and I'm eager to explore, learn, and contribute to building innovative solutions.
 
 🔍 What I'm Focused On:
 
