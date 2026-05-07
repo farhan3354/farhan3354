@@ -20,4 +20,4 @@ Mail:farhanbashir3354@gmail.com
 
 👇 Explore My Projects Below:
 
-(https://jobzy.marotix.com/)
+(https://www.jobzyworld.com/)
