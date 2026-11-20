@@ -19,5 +19,6 @@ LinkedIn:https://www.linkedin.com/in/farhan-bashir-0299a929b/
 Mail:farhanbashir3354@gmail.com
 
 👇 Explore My Projects Below:
-
+(https://www.securenet-services.com)
+(https://manarcargo.com/)
 (https://www.jobzyworld.com/)
